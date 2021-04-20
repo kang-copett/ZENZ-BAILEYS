@@ -233,4 +233,4 @@ Scan the QR code using your WhatsApp in your phone!
 
 # Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Lol-Human`]https://github.com/LoL-Human)
+* [`Lol-Human`](https://github.com/LoL-Human)
