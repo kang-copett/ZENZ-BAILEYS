@@ -66,6 +66,34 @@ Edit file yg berada di 'setting.json'
 
 Scan the QR code using your WhatsApp in your phone!
 
+# AVAILABLE FUNCTION
+
+|      Islami  | Availability |
+| :-----------------: | :----------: |
+| Anti Spam    |      ✔️      |
+| AntiLink    |      ✔️      |
+| Leveling    |      ✔️      |
+| Nsfw    |      ✔️      |
+| SimiSimi    |      ✔️      |
+| Premium    |      ✔️      |
+| Register    |      ✔️      |
+| Limit    |      ✔️      |
+| Balance    |      ✔️      |
+| TotalHIT    |      ✔️      |
+| Detect CakLontong    |      ✔️      |
+| Detect TebakGambar    |      ✔️      |
+| BOT Auto Left    |      ✔️      |
+
+# OPTIONAL
+
+|      OPTIONAL  | 
+| :-----------------: |
+| CekStatus    |   
+| Cek PING    |  
+| Rules BOT    |  
+| Runtime BOT  |  
+| Menu BOT    |  
+
 # AVAILABLE FEATURES
 
 |      Islami  | Availability |
@@ -78,6 +106,127 @@ Scan the QR code using your WhatsApp in your phone!
 | Audio Surah      |      ✔️      |
 | Audio Ayat     |      ✔️      |
 | Random Quran          |      ✔️      |
+
+|      Sticker Maker  | Availability |
+| :-----------------: | :----------: |
+| Sticker Emoji   |      ✔️      |
+| Sticker To Image   |      ✔️      |
+| Image To Sticker   |      ✔️      |
+| Video To Sticker   |      ✔️      |
+| Sticker nocrop  |      ✔️      |
+| Take Sticker   |      ✔️      |
+
+|      Downloader  | Availability |
+| :-----------------: | :----------: |
+| Play Music Yt   |      ✔️      |
+| Play Video Yt   |      ✔️      |
+| TikTok Downloader   |      ✔️      |
+| Instagram Downloader   |      ✔️      |
+| Twitter Downloader   |      ✔️      |
+| Facebook Downloader   |      ✔️      |
+| Pinterest Downloader   |      ✔️      |
+| TikTok Downloader   |      ✔️      |
+| Random LoliVid   |      ✔️      |
+
+|      Fun  | Availability |
+| :-----------------: | :----------: |
+| SimiSimi   |      ✔️      |
+| CakLontong   |      ✔️      |
+| TebakGambar   |      ✔️      |
+| Tebok Jawaban   |      ✔️      |
+| Wancak   |      ✔️      |
+| DarkJokes   |      ✔️      |
+| Meme   |      ✔️      |
+| Fakta Unik   |      ✔️      |
+| More Quotes   |      ✔️      |
+| More Primbon   |      ✔️      |
+| Cerita Pendek   |      ✔️      |
+| Cerita Horror   |      ✔️      |
+| CreepyFact   |      ✔️      |
+| Arti Nama   |      ✔️      |
+
+|      Anime  | Availability |
+| :-----------------: | :----------: |
+| NHsearch   |      ✔️      |
+| Charachter Search |      ✔️      |
+| Manga Search  |      ✔️      |
+| Anime Search  |      ✔️      |
+| Kusonime Search  |      ✔️      |
+| Otakudesu Search  |      ✔️      |
+| More Anime Picture  |      ✔️      |
+| More Anime NSFW  |      ✔️      |
+
+|      Information  | Availability |
+| :-----------------: | :----------: |
+| Wikipedia   |      ✔️      |
+| Jadwal TV   |      ✔️      |
+| Info Gempa   |      ✔️      |
+| Info Cuaca   |      ✔️      |
+| Info Covid   |      ✔️      |
+
+|      Stalker  | Availability |
+| :-----------------: | :----------: |
+| TikTok Stalk   |      ✔️      |
+| Youtube Stalk   |      ✔️      |
+| Instagram Stalk   |      ✔️      |
+| Twitter Stalk   |      ✔️      |
+
+|      WebZone  | Availability |
+| :-----------------: | :----------: |
+| SSWEB   |      ✔️      |
+| LK21   |      ✔️      |  
+| Wattpad   |      ✔️      |
+| Wattpad Search   |      ✔️      |
+| Drakor   |      ✔️      |
+| Lirik   |      ✔️      |
+| To MP3   |      ✔️      |
+| Translate   |      ✔️      |
+
+|      Media  | Availability |
+| :-----------------: | :----------: |
+| Nsfw Checker   |      ✔️      |
+| Wasted   |      ✔️      |
+| Wanted   |      ✔️      |
+| gta5   |      ✔️      |
+| Trump Tweet   |      ✔️      |
+| Youtube Comment   |      ✔️      |
+| Ph Comment   |      ✔️      |
+| Wasted   |      ✔️      |
+| Harta Tahta   |      ✔️      |
+| Spam SMS   |      ✔️      |
+| WHAT ANIME   |      ✔️      |
+| QR Reader   |      ✔️      |
+| OCR   |      ✔️      |
+
+|      Player  | Availability |
+| :-----------------: | :----------: |
+| Jadi AFK   |      ✔️      |
+| Cek Profile   |      ✔️      |
+| Cek Limit   |      ✔️      |
+| Buy Premium   |      ✔️      |
+| Cek Premium   |      ✔️      |
+| Cek Premium List   |      ✔️      |
+| Cek Leadeboard   |      ✔️      |
+
+
+|      Admin  | Availability |
+| :-----------------: | :----------: |
+| Leveling Activation   |      ✔️      |
+| AntiLink Activation   |      ✔️      |
+| NSFW Activation   |      ✔️      |
+| ADD User   |      ✔️      |
+| Kick User   |      ✔️      |
+| Promote User   |      ✔️      |
+| Demote User   |      ✔️      |
+| Mute GC   |      ✔️      |
+| BOT Leave   |      ✔️      |
+| Dell Message BOT  |      ✔️      |
+
+|      Owner  | Availability |
+| :-----------------: | :----------: |
+| Cek Owner   |      ✔️      |
+| Set Thumb   |      ✔️      |
+| Add Premium   |      ✔️      |
 
 
 ## MORE FEATURE AVAILABLE ( cek sendiri )
