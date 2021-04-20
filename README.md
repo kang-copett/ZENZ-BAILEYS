@@ -55,8 +55,8 @@ Edit file yg berada di 'setting.json'
 ```
 
 `prefix`: prefix bot.  
-`zapi`: zenz apikey.  
-`lol`: lolhuman apikey.  
+`zapi`: zenz apikey. (http://zenz.herokuapp.com/)  
+`lol`: lolhuman apikey. (https://lolhuman.herokuapp.com/)  
 
 
 ## RUN BOT
@@ -68,7 +68,7 @@ Scan the QR code using your WhatsApp in your phone!
 
 # AVAILABLE FUNCTION
 
-|      Islami  | Availability |
+|      FUNCTION  | Availability |
 | :-----------------: | :----------: |
 | Anti Spam    |      ✔️      |
 | AntiLink    |      ✔️      |
