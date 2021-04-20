@@ -1,3 +1,11 @@
+/*
+ 
+ BOT WHATSAPP BAILEYS LIB
+ Source https://github.com/zhwzein/ZENZ-BAILEYS
+ By Zen's
+
+ */
+
 const {
     WAConnection,
     MessageType,
