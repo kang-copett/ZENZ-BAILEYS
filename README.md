@@ -15,7 +15,7 @@
   <a href="https://github.com/zhwzein/ZENZ-BAILEYS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/ZENZ-BAILEYS?color=red&style=flat-square" /></a>
   <a href="https://github.com/zhwzein/ZENZ-BAILEYS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/ZENZ-BAILEYS?label=watchers&color=blue&style=flat-square" /></a> <br>
   <a href="https://www.npmjs.com/package/@adiwajshing/baileys"><img src="https://img.shields.io/npm/v/@adiwajshing/baileys.svg?color=green" /></a>
-  <img src="https://img.shields.io/node/v/@adiwajshing/baileys" />
+  <img src="https://img.shields.io/npm/v/@adiwajshing/baileys" />
   <img src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat" />
 </p>
 <p align="center">
